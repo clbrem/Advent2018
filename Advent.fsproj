@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="ReadFile.fs" />
+    <Compile Include="ChronalCalibration.fs" />
+    <Compile Include="Main.fs" />
+    <None Include="files/*.*" CopyToOutputDirectory="Always"/>
+  </ItemGroup>
+</Project>

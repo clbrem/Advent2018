@@ -1,0 +1,11 @@
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/Advent.deps.json
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/Advent.runtimeconfig.json
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/Advent.runtimeconfig.dev.json
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/Advent.dll
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/Advent.pdb
+/Users/cbremer/Projects/Advent/obj/Debug/netcoreapp2.1/Advent.fsprojAssemblyReference.cache
+/Users/cbremer/Projects/Advent/obj/Debug/netcoreapp2.1/Advent.AssemblyInfoInputs.cache
+/Users/cbremer/Projects/Advent/obj/Debug/netcoreapp2.1/Advent.AssemblyInfo.fs
+/Users/cbremer/Projects/Advent/obj/Debug/netcoreapp2.1/Advent.dll
+/Users/cbremer/Projects/Advent/obj/Debug/netcoreapp2.1/Advent.pdb
+/Users/cbremer/Projects/Advent/bin/Debug/netcoreapp2.1/files/input1.txt
