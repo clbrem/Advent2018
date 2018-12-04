@@ -6,7 +6,7 @@ let main argv =
     match argList with
     | "ChronalCalibration" :: rest -> 
         if List.length rest > 0 then
-            Calibrate.file (rest.[0]) 
+            File.sum (rest.[0]) 
             |> printfn "Answer is : %i"
             0
         else
